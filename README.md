@@ -25,6 +25,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 The analysis returned the following results:
 
 * Random Oversample:
+
   Balanced Accuracy Score = .66
   Precision Score = .99
   Recall Score = .60
@@ -33,6 +34,7 @@ The analysis returned the following results:
   ![RandomOverSample](Naive_Oversample.PNG)
   
 * SMOTE Oversample: 
+
   Balanced Accuracy Score = .66
   Precision Score = .99
   Recall Score = .69
@@ -49,6 +51,7 @@ The analysis returned the following results:
   ![ClusterCentroids Undersample](Cluster_Undersample.PNG)
 
 * SMOTEENN Combination: 
+
   Balanced Accuracy Score = .64
   Precision Score = .99
   Recall Score = .57
@@ -58,6 +61,7 @@ The analysis returned the following results:
   ![SMOTEENN Combination](Smoteen_Combo.PNG)
 
 * Balanced Random Forest Ensemble: 
+
   Balanced Accuracy Score = .79
   Precision Score = .99
   Recall Score = .87
@@ -66,6 +70,7 @@ The analysis returned the following results:
   ![Balanced Random Forest Ensemble](BRF.PNG)
 
 * Easy Ensemble: 
+
   Balanced Accuracy Score = .93
   Precision Score = .99
   Recall Score = .94
