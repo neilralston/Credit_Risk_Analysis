@@ -27,8 +27,11 @@ The analysis returned the following results:
 * Random Oversample:
 
   Balanced Accuracy Score = .66
+  
   Precision Score = .99
+  
   Recall Score = .60
+  
   F1 Score = .75
 
   ![RandomOverSample](Naive_Oversample.PNG)
@@ -36,16 +39,23 @@ The analysis returned the following results:
 * SMOTE Oversample: 
 
   Balanced Accuracy Score = .66
+  
   Precision Score = .99
+  
   Recall Score = .69
+  
   F1 Score = .81
 
   ![SMOTE OverSample](Smote_Oversample.PNG)
 
 * ClusterCentroids Undersample: 
+
   Balanced Accuracy Score = .54
+  
   Precision Score = .99
+  
   Recall Score = .40
+  
   F1 Score = .56
 
   ![ClusterCentroids Undersample](Cluster_Undersample.PNG)
@@ -53,8 +63,11 @@ The analysis returned the following results:
 * SMOTEENN Combination: 
 
   Balanced Accuracy Score = .64
+  
   Precision Score = .99
+  
   Recall Score = .57
+  
   F1 Score = .72
 
 
@@ -63,8 +76,11 @@ The analysis returned the following results:
 * Balanced Random Forest Ensemble: 
 
   Balanced Accuracy Score = .79
+  
   Precision Score = .99
+  
   Recall Score = .87
+  
   F1 Score = .93
 
   ![Balanced Random Forest Ensemble](BRF.PNG)
@@ -72,8 +88,11 @@ The analysis returned the following results:
 * Easy Ensemble: 
 
   Balanced Accuracy Score = .93
+  
   Precision Score = .99
+  
   Recall Score = .94
+  
   F1 Score = .97
 
   ![Easy Ensemble](EEC.PNG)
