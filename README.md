@@ -7,7 +7,7 @@
 ## Credit Risk Analysis
 
 ### Overview
-The purpose of this project is to apply machine learning to solve a real-world challenge: credit card risk.
+The purpose of this project is to apply supervised machine learning techniques to solve a real-world challenge: credit card risk.
 
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. 
 
